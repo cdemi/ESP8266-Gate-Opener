@@ -1,6 +1,6 @@
 # ESP8266 Gate Opener
 
-This sketch is for a simple ESP8266 WiFi Web Server that listens for requests to `/gate/press` and triggers a relay for 750ms.
+This sketch is for a simple ESP8266 WiFi Web Server that listens for requests to `/gate/press` and triggers a relay for 750ms. The ESP8266 is a low-cost Wi-Fi microchip, with a full TCP/IP stack and microcontroller capability. This means it's an ideal microchip for IoT Devices.
 
 The sketch is found in [esp8266_gate_press.ino](esp8266_gate_press.ino)
 
